@@ -77,3 +77,5 @@
 }
 .text-red{color:red}
 .bg-tpr{background-color: transparent;color:black;width: 100%;}
+.padding-five-tb{margin-top: 10px;margin-bottom: 10px;}
+.padding-five-lr{margin-left: 5px;margin-right: 5px;}

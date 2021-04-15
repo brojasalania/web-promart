@@ -18,6 +18,9 @@
             <b-nav-item :to="{ name: 'Dashboard' }">
               Dashboard
             </b-nav-item>
+            <b-nav-item :to="{ name: 'Proyection' }">
+              Proyección
+            </b-nav-item>
           
           </b-nav>
         </b-col>

@@ -17,7 +17,7 @@
             <b-nav-item>
               <b-dropdown class="drop">
                 <template v-slot:button-content>
-                  <font-awesome-icon icon="user" />
+                 
                   Bryan Rojas
                 </template>
                 <b-dropdown-item 

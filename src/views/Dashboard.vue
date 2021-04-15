@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
     <b-container>
-      <b-col cols="10">
+      <b-col cols="10" class="padding-five-tb">
+        <h4>Clientes</h4>
         <div>
           <b-table striped hover :items="clients"></b-table>
         </div>
